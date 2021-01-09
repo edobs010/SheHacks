@@ -1,11 +1,25 @@
-body {background-color:#44a900;}
+body {
+	background-color:#44a900;
+	margin: 0px;
+}
+
+img{
+	padding: 15px 0px;
+	height: 145px;
+	width: 145px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #284e15;
+  font-family: 'Oswald';
+  font-size: 17px;
 }
 
 li {
@@ -16,10 +30,17 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 20px 16px;
   text-decoration: none;
 }
 
 li a:hover {
   background-color: #111;
+}
+
+
+.title{
+	margin: 10px;
+	font-family: 'Oswald';
+	color: white;
 }

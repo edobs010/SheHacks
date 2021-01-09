@@ -1,6 +1,10 @@
 body {
-	background-color:#44a900;
+	background-color: white;
 	margin: 0px;
+}
+
+.logo{
+	background-color: #44a900;
 }
 
 img{
@@ -42,5 +46,5 @@ li a:hover {
 .title{
 	margin: 10px;
 	font-family: 'Oswald';
-	color: white;
+	color: #284e15;
 }

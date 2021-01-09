@@ -48,3 +48,15 @@ li a:hover {
 	font-family: 'Oswald';
 	color: #284e15;
 }
+
+.para{
+	margin: 10px;
+	font-family: 'Oswald';
+}
+
+.user-input{
+	margin: 10px;
+	font-family: 'Oswald';
+	font-size: 15px;
+
+}

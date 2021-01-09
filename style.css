@@ -1,5 +1,3 @@
-
-Devon sent Today at 5:33 PM
 body {
 	background-color: white;
 	margin: 0px;
@@ -96,4 +94,9 @@ input[type="button"]:hover{
 
 #output{
 	font-family: 'Oswald';
+}
+
+.donateText{
+	font-family: 'Oswald';
+	color: #284e15;
 }

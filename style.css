@@ -104,3 +104,8 @@ input[type="button"]:hover{
     left        : 44%;
     margin-left : -100px;
 }
+
+.donateText{
+	font-family: 'Oswald';
+	color: #284e15;
+}

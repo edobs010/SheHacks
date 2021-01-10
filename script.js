@@ -12,7 +12,9 @@ function myFunction() {
 	}
 	else{
 		var y = 22*x;
-		var z = y/4173;
+		var z;
+		z = Math.round((y/4173 + Number.EPSILON) * 100) / 100;
+
 		document.getElementById("output1").innerHTML = "Your contribution could be used to plant up to "+x+" trees!";
 		document.getElementById("output2").innerHTML = x+" trees absorb "+y+" kg of carbon dioxide each year and can help to reduce the carbon emissions equivalent to that of "+z+" cars in one year.";
 	}

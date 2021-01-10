@@ -19,5 +19,4 @@ function myFunction() {
 		document.getElementById("output2").innerHTML = x+" trees absorb "+y+" kg of carbon dioxide each year and can help to reduce the carbon emissions equivalent to that of "+z+" cars in one year.";
 	}
 
-	
 }

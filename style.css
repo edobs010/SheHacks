@@ -98,14 +98,17 @@ input[type="button"]:hover{
 
 #img2{
 	width: 30%;
-	bottom: 0;
-	position    : absolute;
-    bottom      : 10px;
-    left        : 44%;
-    margin-left : -100px;
+	position: absolute;
+    bottom: 10px;
+    left: 44%;
+    margin-left: -100px;
 }
 
 .donateText{
 	font-family: 'Oswald';
 	color: #284e15;
+}
+
+.margin{
+	padding: 0px 10px 30px 10px;
 }
